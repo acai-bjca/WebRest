@@ -1,10 +1,10 @@
-package com.example.restservice;
+package eci.ieti.WebRest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestServiceApplicationTests {
+class WebRestApplicationTests {
 
 	@Test
 	void contextLoads() {
